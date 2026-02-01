@@ -1,6 +1,4 @@
-# air_quality_x_high_blood_pressure
-
-# airqualityHBP
+# Air Quality x High Blood Pressure Geospatial Analysis
 
 ## Project Background
 
