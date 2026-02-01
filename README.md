@@ -1,4 +1,4 @@
-# Air Quality x High Blood Pressure Geospatial Analysis
+# Air Quality x High Blood Pressure (Geospatial Analysis)
 
 ## Project Background
 
